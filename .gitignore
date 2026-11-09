@@ -1,3 +1,7 @@
-# Build artifacts - distribute via GitHub Releases
+# Build artifacts - distribute large binary files via GitHub Releases
 *.apk
 *.aab
+*.zip
+android/
+ios/
+symbols/
