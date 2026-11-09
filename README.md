@@ -11,10 +11,10 @@ All pre-built production files are organized cleanly in their respective directo
 ### 1. 🤖 Android (`android/`)
 | File | Size | Destination / Purpose |
 | :--- | :--- | :--- |
-| **[`COC-HYMNS-V3.0.1.aab`](android/COC-HYMNS-V3.0.1.aab)** | **67 MB** | **Google Play Console** (Required format for publishing to Google Play Store). Automatically splits and delivers tiny 16MB packages to user devices. |
-| **[`COC-HYMNS-V3.0.1-arm64-v8a.apk`](android/COC-HYMNS-V3.0.1-arm64-v8a.apk)** | **16.8 MB** | Direct download for 95%+ of modern smartphones (super-fast, optimized). |
-| **[`COC-HYMNS-V3.0.1-armeabi-v7a.apk`](android/COC-HYMNS-V3.0.1-armeabi-v7a.apk)** | **16.5 MB** | Direct download for older 32-bit Android phones. |
-| **[`COC-HYMNS-V3.0.1-universal.apk`](android/COC-HYMNS-V3.0.1-universal.apk)** | **34 MB** | Universal direct download APK (contains all ABIs, compatible with all devices). |
+| **[`COC-HYMNS-V3.0.1.aab`](android/COC-HYMNS-V3.0.1.aab)** | **73 MB** | **Google Play Console** (Required format for publishing to Google Play Store). Automatically splits and delivers tiny 17MB packages to user devices. |
+| **[`COC-HYMNS-V3.0.1-arm64-v8a.apk`](android/COC-HYMNS-V3.0.1-arm64-v8a.apk)** | **17.4 MB** | Direct download for 95%+ of modern smartphones (super-fast, optimized 64-bit). |
+| **[`COC-HYMNS-V3.0.1-armeabi-v7a.apk`](android/COC-HYMNS-V3.0.1-armeabi-v7a.apk)** | **17.2 MB** | Direct download for older 32-bit Android phones. |
+| **[`COC-HYMNS-V3.0.1-universal.apk`](android/COC-HYMNS-V3.0.1-universal.apk)** | **37 MB** | Universal direct download APK (contains all ABIs, compatible with all devices). |
 
 ### 2. 🍏 Apple iOS (`ios/`)
 | File | Size | Destination / Purpose |
@@ -30,8 +30,10 @@ All pre-built production files are organized cleanly in their respective directo
 ---
 
 ## 🆕 What's New in V3.0.1
-- 📚 **Modular Hymn Books Library**: Organize your hymns like a personal bookshelf. Manage **Sacred Selections (SS)**, **Songs of the Church (SOC)**, **Twi**, **Ewe**, **Ga**, **Dangme (274 hymns, praises & choruses)**, **Twi Choruses**, and **Songs of Praises**.
-- 🛡️ **Guarded Gesture Controls**: Smooth swiping across iOS and Android without trackpad or multi-touch gesture crashes.
-- 📺 **YouTube Fallback System**: Instant fallback search and direct link to official Church of Christ YouTube channel whenever direct audio is unavailable.
-- 🎨 **Unified Details AppBar**: Standardized modern presentation across all local language and standard hymnals.
-- ⚡ **Optimized APKs**: Shrunk per-device download size to just ~16MB with modern code obfuscation.
+- 📚 **Modular Hymn Books & Tab Manager**: Organize your hymns like a personal bookshelf. Manage **Sacred Selections (SS)**, **Songs of the Church (SOC)**, **Twi**, **Ewe**, **Ga**, **Dangme (274 hymns, praises & choruses)**, **Twi Choruses**, and **Songs of Praises**.
+- 📌 **Pin Default Launch Hymnal**: Set any hymn book as your startup book directly from the rearrange sheet so it automatically opens first on app launch.
+- 🔤 **9 Worship Typography Fonts**: Select from EB Garamond, Merriweather, Lora, Playfair Display, Cinzel, Inter, Roboto, Montserrat, and Open Sans with real-time live preview scaling.
+- 🚀 **Streamlined Search & Quick Number Jump**: Type a hymn number in search and hit search/enter to leap straight to the song without any cluttered modal dialogs.
+- ↔️ **Fluid Animated Swipe Transitions**: Directional slide transitions between hymns with automatic scroll-to-top reset.
+- ⚙️ **Modern Grouped Settings**: Redesigned settings into clean section cards with responsive centering on desktop, tablet, and mobile.
+- 📺 **YouTube Melody Player**: Interactive audio and video player with tempo controls (0.75x, 0.5x) and YouTube app deep-linking for learning 4-part acappella singing.
