@@ -1,0 +1,3 @@
+# Build artifacts - distribute via GitHub Releases
+*.apk
+*.aab

@@ -6,8 +6,16 @@ COC Hymns App is a mobile application designed to provide seamless access to a c
 ✅ Offline access to hymns (Android)  
 ✅ Web app for iOS users  
 ✅ Search functionality for quick hymn lookup  
+✅ In-app audio and video learning player with YouTube integration  
 ✅ User-friendly and intuitive interface  
 ✅ Regular updates and improvements  
+
+## 🆕 What's New in V3.0.1  
+- 🎵 **Fixed Hymn Audio & YouTube Playback**: Resolved video loading and autoplay issues across all hymn collections. The play button now reliably starts audio tunes.  
+- ▶️ **Interactive Player Controls**: Embedded player with full controls (play, pause, seek, and fullscreen).  
+- 🎓 **Song Learning Mode**: Added a dedicated "Open in YouTube App" button for learners to loop melodies, slow down playback (0.75x, 0.5x) to practice parts, and view description lyrics.  
+- 🛡️ **Hardened WebView & Obfuscation**: Preserved JavaScript bridges with ProGuard rules and applied code obfuscation for performance and security.  
+- 📤 **Hymn Sharing**: Easily share hymns and video learning links.    
 
 ## Installation Guide  
 
