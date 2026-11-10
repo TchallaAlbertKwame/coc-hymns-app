@@ -51,7 +51,6 @@ Direct download links for the official production binaries hosted on [GitHub Rel
   * [cochymn.web.app](https://cochymn.web.app)
   * [cochymnal.web.app](https://cochymnal.web.app)
   * [cochymnals.web.app](https://cochymnals.web.app)
-  * [takcochymns.web.app](https://takcochymns.web.app)
 * **Official Website & Resources**: [https://cochymns.netlify.app](https://cochymns.netlify.app)
 
 ### 📖 Regional & Language Editions
