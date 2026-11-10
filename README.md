@@ -61,7 +61,7 @@ Direct download links for the official production binaries hosted on [GitHub Rel
 ### 📱 App Stores & Channels
 * **Direct Android APK (V3.0.2)**: [GitHub Releases](https://github.com/TchallaAlbertKwame/coc-hymns-app/releases/tag/V3.0.2)
 * **Amazon Appstore**: [COC Hymns on Amazon Appstore](https://www.amazon.com/gp/product/B0DDJMX3LC)
-* **YouTube Worship Channel**: [COC Hymns on YouTube (@cochymnsapp)](https://www.youtube.com/@cochymnsapp)
+* **YouTube Channel**: [COC Hymns on YouTube (@cochymnsapp)](https://www.youtube.com/@cochymnsapp)
 
 ---
 
