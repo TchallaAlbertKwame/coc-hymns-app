@@ -43,13 +43,25 @@ Direct download links for the official production binaries hosted on [GitHub Rel
 
 ---
 
-## 🌐 Official Links
+## 🌐 Official Portals & Web App Mirrors
 
-- **Main Web Application**: [https://cochymns.web.app](https://cochymns.web.app)
-- **Official Website**: [https://cochymns.netlify.app](https://cochymns.netlify.app)
-- **Italian Edition Web App**: [https://cochymnsitalia.web.app](https://cochymnsitalia.web.app)
-- **Dangme Edition Web App**: [https://cochymnsdangme.web.app](https://cochymnsdangme.web.app)
-- **Amazon Appstore**: [COC Hymns on Amazon](https://www.amazon.com/gp/product/B0DDJMX3LC)
+### 🌍 Global Web Apps & Mirrors
+* **Primary Web Application**: [https://cochymns.web.app](https://cochymns.web.app)
+* **High-Availability Web Mirrors**:
+  * [cochymn.web.app](https://cochymn.web.app)
+  * [cochymnal.web.app](https://cochymnal.web.app)
+  * [cochymnals.web.app](https://cochymnals.web.app)
+  * [takcochymns.web.app](https://takcochymns.web.app)
+* **Official Website & Resources**: [https://cochymns.netlify.app](https://cochymns.netlify.app)
+
+### 📖 Regional & Language Editions
+* **Italian Edition Web App** (*Inni · Chiese di Cristo Italia*): [https://cochymnsitalia.web.app](https://cochymnsitalia.web.app)
+* **Dangme Edition Web App**: [https://cochymnsdangme.web.app](https://cochymnsdangme.web.app)
+
+### 📱 App Stores & Channels
+* **Direct Android APK (V3.0.2)**: [GitHub Releases](https://github.com/TchallaAlbertKwame/coc-hymns-app/releases/tag/V3.0.2)
+* **Amazon Appstore**: [COC Hymns on Amazon Appstore](https://www.amazon.com/gp/product/B0DDJMX3LC)
+* **YouTube Worship Channel**: [COC Hymns on YouTube (@cochymnsapp)](https://www.youtube.com/@cochymnsapp)
 
 ---
 
